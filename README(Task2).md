@@ -44,6 +44,7 @@ Domino’s shows consistent performance with stable customer engagement across i
 A higher number of customer votes generally reflects greater restaurant popularity and customer reach.
 
 Tools & Technologies Used
+
 Python
 Pandas
 Matplotlib
